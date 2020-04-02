@@ -40,7 +40,11 @@ public class PrimerRepositorio {
         System.out.println("Nombre:  Anthony Adhelmar Quezada Saucedo");
         System.out.println("Direccion: 10 calle 9-94 zona 1 Chiantla");
         System.out.println("Telefono: 44945681");
-
+        
+            Sistema . a cabo . println ( " Abner leonidas serrano sanchez " );
+        Sistema . a cabo . println ( " terrero zona 4" );
+        Sistema . a cabo . println ( " 59032560 " );
+        
         
     }
     
