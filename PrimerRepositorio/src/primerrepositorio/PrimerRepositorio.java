@@ -36,6 +36,10 @@ public class PrimerRepositorio {
         System.out.println("Carlos Andrés Miranda Méndez");
         System.out.println("1a Calle A, Colonia Villas del Magisterio Zona 9");
         System.out.println("58385781");
+        
+        System.out.println("Nombre:  Anthony Adhelmar Quezada Saucedo");
+        System.out.println("Direccion: 10 calle 9-94 zona 1 Chiantla");
+        System.out.println("Telefono: 44945681");
 
         
     }
